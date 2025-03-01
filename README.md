@@ -117,7 +117,7 @@ python txt_to_epub.py 英文小说.txt -c "^Chapter [0-9]+"
 
 ## 作者
 
-- **您的名字** - [GitHub个人资料链接](https://github.com/yourusername)
+- **MoYu** - [GitHub个人资料链接](https://github.com/Web3MoYu)
 
 ---
 
